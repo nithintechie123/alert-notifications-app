@@ -1,0 +1,19 @@
+.alert-notifications-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 500x;
+  margin-top: 50px;
+}
+
+.notifications-list-container {
+  list-style-type: none;
+  padding: 0px;
+}
